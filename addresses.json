@@ -1,0 +1,16 @@
+{
+
+  "testnet" : {
+    "rinkeby" : {
+      "v1" : {
+        "MarketPlace" : "0xF2e4a1A04a04240D9eC82f4bf0907670023d9a52",
+        "MintNFT" : "0xb02D9dC72e30e98Ab6565515e05b7263fb5F4a4f"
+      }
+    }
+  },
+  "mainnet" : {
+    "BSC" : {
+      "v1": ""
+    }
+  }
+}
